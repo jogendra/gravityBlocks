@@ -58,7 +58,7 @@ class ViewController: UIViewController {
         
         //Elasticity
         let bounce = UIDynamicItemBehavior(items: [greenSquare!, redSquare!, blueSquare!, blackSquare!])
-        bounce.elasticity = 0.8
+        bounce.elasticity = 1.0
         
         animator?.addBehavior(bounce)
         animator?.addBehavior(boundries)
