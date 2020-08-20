@@ -1,2 +1,2 @@
 # Gravity Blocks
-A basic iOS app on basic physics concept gravity and elasticity.
+A basic iOS app on basic physics concept of gravity and elasticity.
